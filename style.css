@@ -140,6 +140,7 @@
 }
 /*------------------- footer section ----------------*/
 .footer {
+    width: 100%;
     text-align: center;
     color: white;
     background-color: #161616;
